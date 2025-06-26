@@ -1,0 +1,17 @@
+{
+  "structure": [
+    {
+      "name": "kutuza32",
+      "localizedName": "Кутузовский 32",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Atrium_v1",
+          "localizedName": "Атриум версия 1",
+          "type": "file",
+          "version": 1
+        }
+      ]
+    }
+  ]
+}
