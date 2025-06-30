@@ -28,6 +28,12 @@
           "localizedName": "Главный вход - вариант 1",
           "type": "file",
           "version": 1
+        },
+        {
+          "name": "pan360.png",
+          "localizedName": "Тестовая панорама",
+          "type": "file",
+          "version": 1
         }
       ]
     },
