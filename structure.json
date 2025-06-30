@@ -6,8 +6,45 @@
       "type": "folder",
       "children": [
         {
-          "name": "pan360.png",
-          "localizedName": "Атриум версия 1",
+          "name": "Cam2_Stereoscopic_360_scalinata_soluzione_16K.png",
+          "localizedName": "Гранд скала - визитор центр 2 этаж",
+          "type": "file",
+          "version": 1
+        },
+        {
+          "name": "Cam3_Stereoscopic_360_scalinata_soluzione_16K.png",
+          "localizedName": "Гранд скала - визитор центр 4 этаж",
+          "type": "file",
+          "version": 1
+        },
+        {
+          "name": "Stereoscopic_360_scalinata_soluzione_A_16K.png",
+          "localizedName": "Главный вход - вариант 1",
+          "type": "file",
+          "version": 1
+        },
+        {
+          "name": "Stereoscopic_360_scalinata_soluzione_B_16K.png",
+          "localizedName": "Главный вход - вариант 1",
+          "type": "file",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "name": "rozariy",
+      "localizedName": "Розарий",
+      "type": "folder",
+      "children": [
+        {
+          "name": "rozariy_01.png",
+          "localizedName": "Розарий 1",
+          "type": "file",
+          "version": 1
+        },
+        {
+          "name": "rozariy_02.png",
+          "localizedName": "Розарий 2",
           "type": "file",
           "version": 1
         }
